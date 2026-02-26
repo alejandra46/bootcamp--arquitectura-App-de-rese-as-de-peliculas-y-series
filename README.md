@@ -46,9 +46,10 @@ gustos de cine.
 
 ### Arquitectura Inicial
 
-**Elegí**: [Monolito / N-Capas]
+**Elegí**: Monolito 
 
-**¿Por qué?**: Explica en 2-3 líneas (para empezar, lo simple es mejor)
+**¿Por qué?**: con estructura en capas interna es generalmente mejor ya que ofrece mayor velocidad de desarollo, despliegue sencillo y menor complejidad operativa 
+para un producto Mínimo viable permitiendo lanzar rápido y validar la idea sin los altos costos de la infraestructura de los microservicios
 
 
 ### Tecnologías
